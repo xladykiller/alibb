@@ -166,4 +166,4 @@ if MySQLdb is not None:
     IntegrityError = MySQLdb.IntegrityError
     OperationalError = MySQLdb.OperationalError
 
-conn = Conn('121.40.77.185','spider','root','123789')
+conn = Conn('127.0.0.1','spider','root','11111')
